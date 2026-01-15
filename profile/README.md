@@ -17,13 +17,12 @@ Subnoto provides a comprehensive platform for electronic signatures, offering:
 
 - **📖 [Documentation](https://subnoto.com/documentation)** - Complete guides and API references
 - **👨‍💻 [Developer Portal](https://subnoto.com/documentation/developers)** - SDKs, tutorials, and integration guides
-- **🔧 [API Reference](https://subnoto.com/documentation/developers/api)** - Detailed API documentation
+- **🔧 [API Reference](https://subnoto.com/documentation/developers/openapi)** - Detailed API documentation
 - **🌐 [Website](https://subnoto.com)** - Learn more about Subnoto
 
 ## 💬 Get in Touch
 
-- **Website**: [subnoto.com](https://subnoto.com)
-- **Live Chat**: Have questions? Use the live chat on our website to get instant support
+- **Live Chat**: Have questions? Use the [live chat on our website](https://subnoto.com) to get instant support
 - **Issues**: Report bugs or request features in the respective repository
 
 ---
