@@ -1,4 +1,4 @@
-# Welcome to Subnoto 👋
+# Subnoto - Confidential Electronic Signature Solution 👋
 
 **Subnoto** is a modern electronic signature platform that enables businesses and individuals to sign documents digitally with legally-binding electronic signatures.
 
