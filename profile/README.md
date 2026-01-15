@@ -2,6 +2,8 @@
 
 **Subnoto** is a modern electronic signature platform that enables businesses and individuals to sign documents digitally with legally-binding electronic signatures.
 
+We are the **only solution** that keeps your documents truly confidential thanks to **confidential computing** technology, ensuring your sensitive data remains encrypted and protected even during processing.
+
 ## 🚀 What We Do
 
 Subnoto provides a comprehensive platform for electronic signatures, offering:
@@ -22,8 +24,6 @@ Subnoto provides a comprehensive platform for electronic signatures, offering:
 
 ## 🛠️ Key Repositories
 
-### Official Projects
-
 - **[pdfsign](https://github.com/subnoto/pdfsign)** - Go library for adding and verifying Advanced Electronic Signatures (AES) and Qualified Electronic Signatures (QES) in PDF documents
 - **[carboneio-integration](https://github.com/subnoto/carboneio-integration)** - Integration demo between CarboneIO and Subnoto for document generation and signing workflows
 - **[branding](https://github.com/subnoto/branding)** - Official branding assets and design tokens
@@ -32,13 +32,6 @@ Subnoto provides a comprehensive platform for electronic signatures, offering:
 ### Open Source
 
 Our main open source codebase is available on GitLab: **[Subnoto Monorepo](https://gitlab.com/subnoto/subnoto-monorepo-public)**
-
-## 🤝 Integration Examples
-
-Check out our integration tutorials to learn how to integrate Subnoto with your favorite tools:
-
-- [CarboneIO Integration](https://subnoto.com/documentation/developers/integrations/carboneio) - Generate documents and send them for signing
-- [TypeScript SDK](https://subnoto.com/documentation/developers/sdks/typescript) - Build applications with our TypeScript SDK
 
 ## 💬 Get in Touch
 
