@@ -20,17 +20,6 @@ Subnoto provides a comprehensive platform for electronic signatures, offering:
 - **🔧 [API Reference](https://subnoto.com/documentation/developers/api)** - Detailed API documentation
 - **🌐 [Website](https://subnoto.com)** - Learn more about Subnoto
 
-## 🛠️ Key Repositories
-
-- **[pdfsign](https://github.com/subnoto/pdfsign)** - Go library for adding and verifying electronic signatures in PDF documents
-- **[carboneio-integration](https://github.com/subnoto/carboneio-integration)** - Integration demo between CarboneIO and Subnoto for document generation and signing workflows
-- **[branding](https://github.com/subnoto/branding)** - Official branding assets and design tokens
-- **[upptime](https://github.com/subnoto/upptime)** - Subnoto website and platform status monitoring
-
-### Open Source
-
-Our main open source codebase is available on GitLab: **[Subnoto Monorepo](https://gitlab.com/subnoto/subnoto-monorepo-public)**
-
 ## 💬 Get in Touch
 
 - **Website**: [subnoto.com](https://subnoto.com)
