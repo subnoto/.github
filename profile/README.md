@@ -8,8 +8,7 @@ We are the **only solution** that keeps your documents truly confidential thanks
 
 Subnoto provides a comprehensive platform for electronic signatures, offering:
 
-- **Advanced Electronic Signatures (AES)** - Create legally-binding signatures for your documents
-- **Qualified Electronic Signatures (QES)** - Meet the highest regulatory standards for electronic signatures
+- **Electronic Signatures** - Create legally-binding signatures for your documents
 - **Document Management** - Organize, store, and manage your signed documents securely
 - **API Integration** - Seamlessly integrate electronic signatures into your applications
 - **Developer-Friendly SDKs** - Easy-to-use libraries for multiple programming languages
@@ -19,12 +18,11 @@ Subnoto provides a comprehensive platform for electronic signatures, offering:
 - **📖 [Documentation](https://subnoto.com/documentation)** - Complete guides and API references
 - **👨‍💻 [Developer Portal](https://subnoto.com/documentation/developers)** - SDKs, tutorials, and integration guides
 - **🔧 [API Reference](https://subnoto.com/documentation/developers/api)** - Detailed API documentation
-- **📊 [Status Page](https://status.subnoto.com)** - Real-time service status and uptime monitoring
 - **🌐 [Website](https://subnoto.com)** - Learn more about Subnoto
 
 ## 🛠️ Key Repositories
 
-- **[pdfsign](https://github.com/subnoto/pdfsign)** - Go library for adding and verifying Advanced Electronic Signatures (AES) and Qualified Electronic Signatures (QES) in PDF documents
+- **[pdfsign](https://github.com/subnoto/pdfsign)** - Go library for adding and verifying electronic signatures in PDF documents
 - **[carboneio-integration](https://github.com/subnoto/carboneio-integration)** - Integration demo between CarboneIO and Subnoto for document generation and signing workflows
 - **[branding](https://github.com/subnoto/branding)** - Official branding assets and design tokens
 - **[upptime](https://github.com/subnoto/upptime)** - Subnoto website and platform status monitoring
@@ -36,8 +34,8 @@ Our main open source codebase is available on GitLab: **[Subnoto Monorepo](https
 ## 💬 Get in Touch
 
 - **Website**: [subnoto.com](https://subnoto.com)
+- **Live Chat**: Have questions? Use the live chat on our website to get instant support
 - **Issues**: Report bugs or request features in the respective repository
-- **Status**: Check our [status page](https://status.subnoto.com) for service health
 
 ---
 
